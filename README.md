@@ -112,3 +112,5 @@ This project is part of FIWARE.
 [https://www.fiware.org/](https://www.fiware.org/)
 
 FIWARE catalogue: [Synchronization GE](http://catalogue.fiware.org/enablers/synchronization)
+
+Test integrity
